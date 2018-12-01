@@ -1,0 +1,20 @@
+C=g++ -g -Wall --std=c++98
+E=.cpp
+G=grep.o
+S=sort.o
+P=sort
+Q=grep
+all: $(P) $(Q)
+$(P):$(S)
+	$(C) -o $(P) $(S)
+
+$(Q):$(G)
+	$(C) -o $(Q) $(G)
+
+$(E).o:
+	$(C) -c $<  -o $@
+
+clean:
+	rm $(G) $(P) $(Q) $(S)
+
+.PHONY: clean

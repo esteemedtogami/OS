@@ -1,0 +1,32 @@
+/****************************************
+Author: Sam Pickell
+Date: March 22, 2018
+Filename: write-up.txt
+email: samuel_pickell@student.uml.edu
+***************************************/
+
+I feel as though I was 100% successful with this project. Using
+Professor Moloney's class code as a base, I added print statements
+to format the data printed in the c1-c5 files. Most of my work
+involved many test cases which I will discuss further in their
+own separate paragraphs. Sample output of the base case has been
+put in the output.txt file in this directory. There were no major
+issues while doing this project, apart from a few code corrections
+and missing libraries from the class code.
+
+The first graph, queue_depth_vs_prob_of_deadlock.png, are my results
+from testing the 1 producer 5 consumer program with a varying queue size.
+The data is linear, and as the queue gets to around 60 and above, the odds
+of deadlock become very low. Alternatively, as the size of the queue approaches
+1, the odds of deadlock are almost guaranteed. The default queue size, 50,
+is about 90% that you won't get a deadlock, for example.
+
+The second graph, consumer_size_vs_prob_of_deadlock.png, are my results
+from setting the queue size to 38 (the size I found to be about 50% deadlock
+probability) and testing the program with 1 producer, 1 consumer, then 1
+producer, 2 consumers, etc., to 1 producer, 10 consumers. This graph was also
+linear in that the more consumers you had, the more likely you would deadlock,
+whereas with fewer consumers, you would likely not deadlock. In the case of
+1 consumer, deadlock was impossible, as it had no competition for resources.
+
+*Note, my graphs can be viewed from the terminal with the eog command

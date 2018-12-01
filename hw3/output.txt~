@@ -1,0 +1,762 @@
+/***********************************
+Author: Sam Pickell
+Date: March 22, 2018
+Filename: output.txt
+***********************************/
+
+For the base case run consumer files that I am reporting on
+in this file, the consumers ran in this order:
+
+Consumer 2
+Consumer 3
+Consumer 1
+Consumer 4
+Consumer 5
+
+
+
+
+Consumer 2
+-----------------------------------------------------------------------
+Process PID: 5498   Dozen: 1   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+50	0	1	1
+51	1	1	1
+52	1	2	52
+53	1	3	3
+54	2	4	2
+1	1	5	2
+1	6	3	56
+7	7	2	57
+1	3	3	58
+9	9	5	59
+10	10	6	60
+11	11	7	4
+
+Process PID: 5498   Dozen: 2   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	0	0	0
+0	1	1	0
+0	52	1	1
+0	1	0	0
+0	54	2	2
+2	55	0	0
+2	56	56	0
+0	57	57	3
+3	0	0	1
+3	3	0	0
+60	0	0	4
+4	0	2	0
+
+Process PID: 5498   Dozen: 3   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5498   Dozen: 4   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+100	100	1	0
+0	1	1	1
+1	2	1	0
+2	1	0	1
+2	3	1	0
+2	2	0	0
+3	3	0	2
+4	4	0	0
+4	0	2	0
+0	4	1	0
+0	0	0	2
+4	0	0	0
+
+Process PID: 5498   Dozen: 5   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	1	0	1
+101	101	1	101
+102	102	2	102
+103	103	0	103
+1	104	0	104
+105	105	0	0
+106	106	0	2
+107	107	2	0
+108	4	0	0
+109	0	3	0
+110	0	4	0
+111	0	5	0
+
+Process PID: 5498   Dozen: 6   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	1	0
+0	1	0	0
+0	2	0	0
+0	0	2	0
+0	3	0	0
+1	0	0	0
+0	0	0	1
+2	0	0	0
+3	0	0	0
+0	0	3	0
+4	0	0	0
+0	0	0	2
+
+Process PID: 5498   Dozen: 7   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	1	0
+0	1	0	0
+1	0	0	0
+0	0	0	1
+0	0	2	0
+0	2	0	0
+2	0	0	0
+0	3	0	0
+3	0	0	0
+4	0	0	0
+0	0	0	2
+5	0	0	0
+
+Process PID: 5498   Dozen: 8   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	1	0	0
+0	0	0	151
+1	0	0	152
+0	0	0	153
+0	0	0	154
+0	0	0	155
+156	0	0	5
+157	0	0	6
+158	0	0	0
+159	0	1	0
+160	0	2	0
+161	0	3	0
+
+Process PID: 5498   Dozen: 9   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	1	0	0
+1	0	0	0
+0	152	1	0
+0	153	2	0
+0	154	154	1
+0	155	155	0
+0	0	0	2
+2	0	0	0
+3	0	0	0
+0	3	0	0
+4	0	0	0
+0	0	0	3
+
+Process PID: 5498   Dozen: 10   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	1
+0	0	0	2
+0	1	0	0
+0	2	0	0
+0	0	0	3
+1	0	0	0
+2	0	0	0
+0	0	1	0
+0	0	2	0
+3	0	0	0
+0	0	3	0
+4	0	0	0
+-----------------------------------------------------------------------------
+
+
+Consumer 3
+----------------------------------------------------------------------------
+
+Process PID: 5499   Dozen: 1   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5499   Dozen: 2   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+4	0	0	0
+0	0	0	1
+0	0	0	2
+5	0	0	0
+0	2	0	0
+0	0	0	3
+0	0	1	0
+0	0	61	4
+
+Process PID: 5499   Dozen: 3   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+2	0	0	0
+3	0	0	0
+0	0	1	0
+4	0	0	0
+5	0	2	0
+6	1	0	0
+0	0	0	2
+0	0	2	4
+0	2	3	0
+
+Process PID: 5499   Dozen: 4   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5499   Dozen: 5   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	0	100	0
+0	1	1	0
+1	2	2	0
+0	1	103	0
+2	0	104	1
+0	0	3	1
+0	0	4	106
+3	2	107	107
+4	108	108	3
+0	4	109	3
+5	110	5	4
+0	5	4	111
+
+Process PID: 5499   Dozen: 6   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	1	1	0
+1	0	1	1
+1	1	0	1
+2	0	0	2
+0	2	1	1
+4	2	1	2
+5	3	2	0
+1	3	2	0
+3	0	0	2
+0	4	3	0
+0	0	3	0
+2	0	111	0
+
+Process PID: 5499   Dozen: 7   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	1	0	0
+1	0	1	0
+2	0	0	0
+0	0	1	1
+3	0	0	0
+0	0	0	2
+0	0	2	0
+0	0	0	3
+4	0	0	0
+5	0	0	0
+0	0	3	0
+6	0	0	0
+
+Process PID: 5499   Dozen: 8   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	0	0	0
+0	0	0	1
+2	0	0	0
+0	1	0	0
+0	2	0	0
+0	3	0	0
+0	0	0	156
+3	0	0	0
+0	4	0	0
+0	5	0	0
+0	6	0	0
+0	0	1	0
+
+Process PID: 5499   Dozen: 9   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	1	0	0
+0	2	0	0
+0	3	0	0
+0	4	0	0
+0	0	0	1
+0	5	0	0
+0	0	156	0
+0	0	157	0
+0	0	158	2
+0	0	159	0
+0	0	4	0
+0	0	0	3
+
+Process PID: 5499   Dozen: 10   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	1	0	0
+0	0	1	0
+0	0	2	0
+0	0	3	0
+1	0	0	0
+2	0	0	0
+0	2	0	0
+3	0	0	0
+0	3	0	0
+0	0	4	0
+0	4	0	0
+0	0	5	0
+------------------------------------------------------------------------------
+
+
+Consumer 1
+-----------------------------------------------------------------------------
+
+Process PID: 5497   Dozen: 1   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	51	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	55	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+59	0	0	0
+0	0	0	0
+4	0	0	0
+
+Process PID: 5497   Dozen: 2   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+2	0	0	0
+3	0	0	0
+0	1	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	59	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5497   Dozen: 3   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+2	0	0	0
+3	0	0	0
+0	0	1	0
+4	0	0	0
+5	0	2	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5497   Dozen: 4   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5497   Dozen: 5   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	3
+0	0	0	4
+0	0	0	5
+
+Process PID: 5497   Dozen: 6   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5497   Dozen: 7   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5497   Dozen: 8   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	150	150	1
+1	151	151	1
+0	0	152	2
+2	1	153	3
+0	0	3	2
+3	1	0	2
+0	1	0	0
+2	3	2	157
+0	2	0	4
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5497   Dozen: 9   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	1	0	1
+1	2	1	0
+0	0	1	1
+1	0	3	2
+2	0	2	1
+0	1	0	2
+0	1	0	3
+3	2	3	0
+2	158	0	4
+0	3	0	5
+4	160	4	0
+0	161	161	6
+
+Process PID: 5497   Dozen: 10   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	0	0	0
+2	0	0	0
+0	1	0	0
+3	0	0	0
+4	0	0	0
+0	0	0	1
+0	0	1	0
+0	2	0	0
+5	0	0	0
+6	0	0	0
+0	0	2	0
+0	0	0	2
+
+-----------------------------------------------------------------------------
+
+
+Consumer 4
+----------------------------------------------------------------------------
+
+Process PID: 5500   Dozen: 1   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	5
+0	2	0	0
+
+Process PID: 5500   Dozen: 2   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	1	0	0
+1	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5500   Dozen: 3   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	1	0	1
+2	1	0	1
+1	2	1	1
+3	0	1	2
+0	2	0	1
+3	3	0	2
+0	3	0	4
+0	4	0	5
+2	0	0	6
+0	0	1	3
+4	5	0	0
+0	5	2	7
+
+Process PID: 5500   Dozen: 4   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	2	0
+2	0	0	0
+4	0	0	4
+
+Process PID: 5500   Dozen: 5   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	0	100	0
+0	1	1	0
+1	2	2	0
+0	1	103	0
+2	0	104	1
+0	0	3	1
+0	0	4	106
+3	2	107	107
+4	108	108	3
+0	4	109	3
+5	110	5	4
+2	5	4	111
+
+Process PID: 5500   Dozen: 6   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	1	0	0
+0	2	0	0
+
+Process PID: 5500   Dozen: 7   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+150	1	1	0
+151	0	2	0
+1	2	0	0
+0	0	1	1
+0	0	0	2
+2	1	2	0
+0	3	0	3
+4	0	3	2
+0	0	2	1
+3	0	0	2
+0	0	3	3
+0	4	0	0
+
+Process PID: 5500   Dozen: 8   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+1	150	150	1
+1	151	151	1
+0	0	152	2
+2	1	153	3
+0	0	3	2
+3	1	0	2
+0	1	0	0
+2	3	2	157
+0	2	0	4
+3	0	3	159
+4	3	4	160
+4	0	0	161
+
+Process PID: 5500   Dozen: 9   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+0	0	0	0
+
+Process PID: 5500   Dozen: 10   Time: Thu Mar 22 20:44:45 2018
+
+
+plain	jelly	coconut	honey dip
+
+200	0	0	0
+201	1	1	0
+202	0	1	1
+203	0	2	2
+0	0	3	3
+0	0	4	4
+1	2	0	0
+0	2	5	0
+0	0	2	1
+0	0	6	5
+0	3	0	2
+2	0	7	0
+
+-----------------------------------------------------------------------------
+
+
+Consumer 5
+----------------------------------------------------------------------------
+
