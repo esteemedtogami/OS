@@ -1,0 +1,60 @@
+Consumer#: 50  Dozen#: 1  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 2  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 3  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 4  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 5  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 6  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 7  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 8  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 9  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+
+Consumer#: 50  Dozen#: 10  Time: Tue Apr  3 21:30:30 2018
+
+plain	jelly	coconut	honey dip
+
+0	0	0	0	
+

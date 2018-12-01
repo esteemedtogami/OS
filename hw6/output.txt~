@@ -1,0 +1,37 @@
+/****************************************
+Author: Sam Pickell
+Date: 5/1/2018
+Filename: output.txt
+email: samuel_pickell@student.uml.edu
+****************************************/
+
+The following is a sample output of this file and write-up.txt being passed
+as arguments to my program on the mercury system.
+
+
+
+FILENAME:			output.txt
+FILE TYPE:			ordinary
+PERMISSIONS:			rw-------
+OWNER_NAME:			spickell
+GROUP_NAME:			cs2019
+DATE_OF_LAST_MODIFICATION:	Tue May  1 20:38:53 2018
+NLINK SIZEOF:			4 bytes
+LINK COUNT:			1
+FILE SIZEOF:			8 bytes
+FILE SIZE:			178
+INUM SIZE:			8 bytes
+INODE NUMBER:			12631368580962229052
+
+FILENAME:			write-up.txt
+FILE TYPE:			ordinary
+PERMISSIONS:			rw-------
+OWNER_NAME:			spickell
+GROUP_NAME:			cs2019
+DATE_OF_LAST_MODIFICATION:	Tue May  1 20:39:15 2018
+NLINK SIZEOF:			4 bytes
+LINK COUNT:			1
+FILE SIZEOF:			8 bytes
+FILE SIZE:			180
+INUM SIZE:			8 bytes
+INODE NUMBER:			13165033313088435812

@@ -1,0 +1,14 @@
+/****************************************
+Author:	Sam Pickell
+Date: 5/11/2018
+Filename: write-up.txt
+email: samuel_pickell@student.uml.edu
+****************************************/
+
+I feel as though I was 100% successful with this program.
+Using Professor Moloney's class code, by passing in different
+files or directories as arguments, the program lists a lot
+of information about file systems, including name, type, 
+permissions, link count, etc. I encountered no problems.
+
+I am resubmitting because I did not output all of the listed types.

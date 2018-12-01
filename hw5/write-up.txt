@@ -1,0 +1,18 @@
+/****************************************
+Name: Sam Pickell
+Date: 4/24/18
+Filename: write-up.txt
+email: samuel_pickell@student.uml.edu
+****************************************/
+
+I believe I was 60% successful with this program. Using Professor Moloney's
+class code and the class website help files, I tried to implement first
+and best fit algorithms. Even though the program compiles, it seems to
+run into a segmentation fault. Considering Professor Moloney said that
+Buddy System is very challenging to code and that most people have trouble
+implementing it, in the end, trying to implement it caused more errors,
+so I removed it entirely. I do understand what buddy system is; when
+trying to allocate space for an object, you essentially continue to break
+free space in half until you find a size just big enough to contain the
+object you are allocating memory for, and the memory cannot coalesce until
+its adjacent memory matches its size and is free.

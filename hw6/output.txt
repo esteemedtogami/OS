@@ -1,0 +1,69 @@
+/****************************************
+Author: Sam Pickell
+Date: 5/11/2018
+Filename: output.txt
+email: samuel_pickell@student.uml.edu
+****************************************/
+
+FILENAME:			main.cpp
+FILE TYPE:			ordinary
+PERMISSIONS:			rw-------
+OWNER_NAME:			narukami41
+GROUP_NAME:			narukami41
+DATE_OF_LAST_MODIFICATION:	Tue May  1 20:40:38 2018
+NLINK SIZEOF:			8 bytes
+LINK COUNT:			1
+FILE SIZEOF:			8 bytes
+FILE SIZE:			3258
+INUM SIZE:			8 bytes
+INODE NUMBER:			268839
+
+FILENAME:			test
+FILE TYPE:			directory
+PERMISSIONS:			rwx------
+OWNER_NAME:			narukami41
+GROUP_NAME:			narukami41
+DATE_OF_LAST_MODIFICATION:	Fri May 11 16:04:22 2018
+NLINK SIZEOF:			8 bytes
+LINK COUNT:			2
+FILE SIZEOF:			8 bytes
+FILE SIZE:			4096
+INUM SIZE:			8 bytes
+INODE NUMBER:			269822
+
+FILENAME:			link
+FILE TYPE:			symbolic link
+PERMISSIONS:			rwxrwxrwx
+OWNER_NAME:			narukami41
+GROUP_NAME:			narukami41
+DATE_OF_LAST_MODIFICATION:	Fri May 11 16:05:38 2018
+NLINK SIZEOF:			8 bytes
+LINK COUNT:			1
+FILE SIZEOF:			8 bytes
+FILE SIZE:			5
+INUM SIZE:			8 bytes
+INODE NUMBER:			269316
+
+FILENAME:			char_dev
+FILE TYPE:			char dev
+PERMISSIONS:			rw-r--r--
+OWNER_NAME:			root
+GROUP_NAME:			root
+DATE_OF_LAST_MODIFICATION:	Fri May 11 16:16:26 2018
+NLINK SIZEOF:			8 bytes
+LINK COUNT:			1
+MAJOR - MINOR CODES:		89, 1
+INUM SIZE:			8 bytes
+INODE NUMBER:			262936
+
+FILENAME:			blk_dev
+FILE TYPE:			block dev
+PERMISSIONS:			rw-r--r--
+OWNER_NAME:			root
+GROUP_NAME:			root
+DATE_OF_LAST_MODIFICATION:	Fri May 11 16:17:12 2018
+NLINK SIZEOF:			8 bytes
+LINK COUNT:			1
+MAJOR - MINOR CODES:		90, 2
+INUM SIZE:			8 bytes
+INODE NUMBER:			270227

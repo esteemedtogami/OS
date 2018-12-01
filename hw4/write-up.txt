@@ -1,0 +1,22 @@
+/************************************
+Author: Sam Pickell
+Date: April 3, 2018
+Filename: write-up.txt
+Email: samuel_pickell@student.uml.edu
+************************************/
+
+I believe I was 85% successful with this program. Using Professor
+Moloney's class code as a base, I wrote the producer and consumer
+functions as described in pseudo code. However, some errors occrred
+while writing this program. For whatever reason, multiple PIDS appear
+when running the program and it causes the program to deadlock
+every time. I'm not sure why this error occurrs, and I spent several
+hours trying to figure out why, but was unsuccessful. As a result of
+this, data collection was essentially impossible. I assume that
+much like the last assignment, the correct results would be as the
+queue gets larger, the probability of deadlock decreases. And as for
+altering the number of dozen of donuts, I would guess that the more dozen
+of donuts produced the greater the probability of deadlock. While I did
+not get this program 100% working, I do think that I implemented the
+pseudo code correctly, I just don't know what caused the program to
+create more pids than expected and always deadlock as a result.
